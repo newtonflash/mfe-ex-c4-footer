@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  align-items: center;
+
+  height: 100px;
+}
+
+.logo {
+  flex: 0 0 100px;
+}
+
+.links {
+  display: flex;
+  flex-grow: 2;
+}
+
+.links a {
+  color: #38A38F;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.copyright {
+  flex-grow: 1;
+}
