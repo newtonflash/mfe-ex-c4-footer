@@ -5,7 +5,7 @@ module.exports = {
   mode: "production",
   entry: "./src/index.js",
   output: {
-    filename: 'bundle.[hash].js'
+    filename: 'footer.js'
   },
   plugins: [
     new HtmlWebpackPlugin({
