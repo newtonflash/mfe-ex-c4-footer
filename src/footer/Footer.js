@@ -8,7 +8,7 @@ const Footer = () => (
       <a href='#'>Sample Link 1</a>
       <a href='#'>Sample Link 1</a>
     </div>
-    <div className='copyright'>Copyright @www.samplewebsite.com</div>
+    <div className='copyright'>Copyright @www.newtonflash.com</div>
   </div>
 );
 
